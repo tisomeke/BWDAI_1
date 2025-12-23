@@ -42,11 +42,11 @@ Scipy — статистические методы.
 Убедитесь, что файл google_books_dataset.csv находится в корневой папке проекта.
 
 Установите необходимые зависимости:
-'''
+
 pip install pandas numpy matplotlib seaborn scipy
-'''
+
 
 Запустите скрипт анализа:
-'''
+
 python google_books_analysis.py
-'''
+
